@@ -24,6 +24,15 @@
   <p><icon name="code" label="Source Code"></icon></p>
   <figure><pre><code>&lt;icon <span class="attr">name</span>=<span class="val">"code"</span> <span class="attr">label</span>=<span class="val">"Source Code"</span>&gt;&lt;/icon&gt;</code></pre></figure>
 
+
+
+  <h2>Custome Icon</h2>
+  <p><icon name="alibaba"></icon></p>
+  <p><icon name="taobao"></icon></p>
+  <p><icon name="jd"></icon></p>
+  <p><icon name="enterprice-cn"></icon></p>
+  <p><icon name="vip"></icon></p>
+
   <footer>
     <a href="//github.com/Justineo">@Justineo</a>|<a href="//github.com/Justineo/vue-awesome/blob/master/LICENSE">MIT License</a>|<a href="//github.com/Justineo/vue-awesome">View on GitHub</a>
   </footer>
